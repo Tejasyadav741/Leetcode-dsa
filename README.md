@@ -38,6 +38,7 @@ Daily leetcode journey
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0066-plus-one/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
