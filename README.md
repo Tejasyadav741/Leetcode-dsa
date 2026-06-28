@@ -17,9 +17,11 @@ Daily leetcode journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0013-roman-to-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0014-longest-common-prefix/) | Easy |
 | [0058-length-of-last-word](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0058-length-of-last-word/) | Easy |
 ## Trie
@@ -40,6 +42,7 @@ Daily leetcode journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0066-plus-one/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
