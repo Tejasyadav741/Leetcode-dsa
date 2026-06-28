@@ -23,6 +23,7 @@ Daily leetcode journey
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0058-length-of-last-word/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -48,4 +49,8 @@ Daily leetcode journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0088-merge-sorted-array/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
