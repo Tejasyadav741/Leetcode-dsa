@@ -13,6 +13,7 @@ Daily leetcode journey
 | [0035-search-insert-position](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0088-merge-sorted-array/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +89,7 @@ Daily leetcode journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0070-climbing-stairs/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
