@@ -22,6 +22,7 @@ Daily leetcode journey
 | [0001-two-sum](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@ Daily leetcode journey
 | [0088-merge-sorted-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +82,7 @@ Daily leetcode journey
 | [0021-merge-two-sorted-lists](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
