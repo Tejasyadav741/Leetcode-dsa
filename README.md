@@ -95,12 +95,14 @@ Daily leetcode journey
 | [0141-linked-list-cycle](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0206-reverse-linked-list](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0206-reverse-linked-list](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0206-reverse-linked-list/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
