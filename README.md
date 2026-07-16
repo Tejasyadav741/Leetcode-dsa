@@ -18,6 +18,7 @@ Daily leetcode journey
 | [0136-single-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,6 +29,7 @@ Daily leetcode journey
 | [0169-majority-element](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,4 +163,8 @@ Daily leetcode journey
 | [0100-same-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
