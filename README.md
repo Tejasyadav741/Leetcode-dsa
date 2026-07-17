@@ -77,6 +77,7 @@ Daily leetcode journey
 | [0168-excel-sheet-column-title](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0202-happy-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0202-happy-number/) | Easy |
+| [0231-power-of-two](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0231-power-of-two/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,11 +110,13 @@ Daily leetcode journey
 | [0021-merge-two-sorted-lists](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0231-power-of-two/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0136-single-number/) | Easy |
+| [0231-power-of-two](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0231-power-of-two/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
