@@ -65,6 +65,7 @@ Daily leetcode journey
 | [0004-median-of-two-sorted-arrays](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0069-sqrtx/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +126,7 @@ Daily leetcode journey
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0136-single-number/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0231-power-of-two/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -155,6 +157,7 @@ Daily leetcode journey
 | [0100-same-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0226-invert-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -171,6 +174,7 @@ Daily leetcode journey
 | [0100-same-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0226-invert-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
