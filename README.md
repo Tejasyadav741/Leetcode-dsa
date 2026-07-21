@@ -19,6 +19,7 @@ Daily leetcode journey
 | [0169-majority-element](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0283-move-zeroes](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0283-move-zeroes/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -59,6 +60,7 @@ Daily leetcode journey
 | [0160-intersection-of-two-linked-lists](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0283-move-zeroes/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
