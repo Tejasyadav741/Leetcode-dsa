@@ -34,6 +34,7 @@ Daily leetcode journey
 | [0202-happy-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0242-valid-anagram](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0290-word-pattern/) | Easy |
 ## String
@@ -48,6 +49,7 @@ Daily leetcode journey
 | [0125-valid-palindrome](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0242-valid-anagram](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0290-word-pattern/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -101,6 +103,7 @@ Daily leetcode journey
 | [0088-merge-sorted-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
