@@ -23,6 +23,7 @@ Daily leetcode journey
 | [0238-product-of-array-except-self](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0283-move-zeroes/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -98,6 +99,7 @@ Daily leetcode journey
 | [0263-ugly-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0292-nim-game/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -107,6 +109,7 @@ Daily leetcode journey
 | [0217-contains-duplicate](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0268-missing-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
