@@ -23,6 +23,7 @@ Daily leetcode journey
 | [0238-product-of-array-except-self](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0283-move-zeroes/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -40,6 +41,7 @@ Daily leetcode journey
 | [0242-valid-anagram](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0290-word-pattern/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +78,7 @@ Daily leetcode journey
 | [0283-move-zeroes](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +87,7 @@ Daily leetcode journey
 | [0069-sqrtx](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0069-sqrtx/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0268-missing-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +118,7 @@ Daily leetcode journey
 | [0217-contains-duplicate](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Stack
