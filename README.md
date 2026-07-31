@@ -44,6 +44,7 @@ Daily leetcode journey
 | [0290-word-pattern](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0389-find-the-difference](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +61,7 @@ Daily leetcode journey
 | [0290-word-pattern](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +128,7 @@ Daily leetcode journey
 | [0268-missing-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0389-find-the-difference](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Stack
@@ -168,6 +171,7 @@ Daily leetcode journey
 | [0222-count-complete-tree-nodes](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
