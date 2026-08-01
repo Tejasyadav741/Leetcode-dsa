@@ -62,6 +62,7 @@ Daily leetcode journey
 | [0344-reverse-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
+| [0392-is-subsequence](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0392-is-subsequence/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +85,7 @@ Daily leetcode journey
 | [0345-reverse-vowels-of-a-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0392-is-subsequence](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0392-is-subsequence/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,6 +184,7 @@ Daily leetcode journey
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0392-is-subsequence](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0392-is-subsequence/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
