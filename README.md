@@ -15,6 +15,7 @@ Daily leetcode journey
 | [0035-search-insert-position](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0088-merge-sorted-array/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0169-majority-element/) | Easy |
@@ -194,6 +195,7 @@ Daily leetcode journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -206,6 +208,7 @@ Daily leetcode journey
 | [0100-same-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -225,6 +228,7 @@ Daily leetcode journey
 | [0100-same-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -277,4 +281,8 @@ Daily leetcode journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0401-binary-watch](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0401-binary-watch/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
