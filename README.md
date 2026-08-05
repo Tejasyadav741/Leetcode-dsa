@@ -209,6 +209,7 @@ Daily leetcode journey
 | [0101-symmetric-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -219,6 +220,7 @@ Daily leetcode journey
 | [0100-same-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Binary Tree
@@ -229,6 +231,7 @@ Daily leetcode journey
 | [0101-symmetric-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0404-sum-of-left-leaves/) | Easy |
