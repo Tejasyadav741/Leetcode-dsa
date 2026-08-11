@@ -187,6 +187,7 @@ Daily leetcode journey
 | [0268-missing-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0401-binary-watch](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0401-binary-watch/) | Easy |
+| [0476-number-complement](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0476-number-complement/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
