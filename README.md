@@ -30,6 +30,7 @@ Daily leetcode journey
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0500-keyboard-row](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0500-keyboard-row/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -52,6 +53,7 @@ Daily leetcode journey
 | [0389-find-the-difference](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0409-longest-palindrome/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0500-keyboard-row](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0500-keyboard-row/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +73,7 @@ Daily leetcode journey
 | [0389-find-the-difference](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0392-is-subsequence/) | Easy |
 | [0409-longest-palindrome](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0409-longest-palindrome/) | Easy |
+| [0500-keyboard-row](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0500-keyboard-row/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
