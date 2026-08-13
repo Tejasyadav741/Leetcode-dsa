@@ -82,6 +82,7 @@ Daily leetcode journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0011-container-with-most-water/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
@@ -164,6 +165,7 @@ Daily leetcode journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0002-add-two-numbers/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0141-linked-list-cycle/) | Easy |
