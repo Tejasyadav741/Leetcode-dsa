@@ -34,6 +34,7 @@ Daily leetcode journey
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,6 +199,7 @@ Daily leetcode journey
 | [0389-find-the-difference](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0401-binary-watch](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0401-binary-watch/) | Easy |
 | [0476-number-complement](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0476-number-complement/) | Easy |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
