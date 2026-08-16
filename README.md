@@ -76,6 +76,7 @@ Daily leetcode journey
 | [0392-is-subsequence](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0392-is-subsequence/) | Easy |
 | [0409-longest-palindrome](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0409-longest-palindrome/) | Easy |
 | [0500-keyboard-row](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0500-keyboard-row/) | Easy |
+| [0504-base-7](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0504-base-7/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -136,6 +137,7 @@ Daily leetcode journey
 | [0292-nim-game](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0292-nim-game/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0441-arranging-coins/) | Easy |
+| [0504-base-7](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0504-base-7/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Sorting
