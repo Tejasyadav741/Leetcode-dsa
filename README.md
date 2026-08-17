@@ -136,6 +136,7 @@ Daily leetcode journey
 | [0268-missing-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0441-arranging-coins/) | Easy |
 | [0504-base-7](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0504-base-7/) | Easy |
@@ -192,6 +193,7 @@ Daily leetcode journey
 | [0231-power-of-two](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0342-power-of-four/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,6 +202,7 @@ Daily leetcode journey
 | [0222-count-complete-tree-nodes](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0268-missing-number/) | Easy |
+| [0342-power-of-four](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0401-binary-watch](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0401-binary-watch/) | Easy |
 | [0476-number-complement](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0476-number-complement/) | Easy |
