@@ -143,6 +143,7 @@ Daily leetcode journey
 | [0367-valid-perfect-square](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0441-arranging-coins/) | Easy |
 | [0504-base-7](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0504-base-7/) | Easy |
+| [0509-fibonacci-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Sorting
@@ -197,6 +198,7 @@ Daily leetcode journey
 | [0234-palindrome-linked-list](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0342-power-of-four/) | Easy |
+| [0509-fibonacci-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,10 +223,12 @@ Daily leetcode journey
 | [0070-climbing-stairs](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0392-is-subsequence/) | Easy |
+| [0509-fibonacci-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0070-climbing-stairs/) | Easy |
+| [0509-fibonacci-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
