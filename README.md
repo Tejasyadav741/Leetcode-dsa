@@ -148,6 +148,7 @@ Daily leetcode journey
 | [0509-fibonacci-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
