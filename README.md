@@ -79,6 +79,7 @@ Daily leetcode journey
 | [0409-longest-palindrome](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0409-longest-palindrome/) | Easy |
 | [0500-keyboard-row](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0500-keyboard-row/) | Easy |
 | [0504-base-7](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0504-base-7/) | Easy |
+| [0520-detect-capital](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0520-detect-capital/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
