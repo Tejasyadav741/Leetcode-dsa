@@ -14,6 +14,7 @@ Daily leetcode journey
 | [0027-remove-element](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0035-search-insert-position/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0042-trapping-rain-water/) | Hard |
 | [0066-plus-one](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -96,6 +97,7 @@ Daily leetcode journey
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0141-linked-list-cycle/) | Easy |
@@ -172,6 +174,7 @@ Daily leetcode journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -227,6 +230,7 @@ Daily leetcode journey
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0392-is-subsequence/) | Easy |
@@ -346,4 +350,8 @@ Daily leetcode journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0463-island-perimeter/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
