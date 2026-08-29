@@ -215,6 +215,7 @@ Daily leetcode journey
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0136-single-number/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0268-missing-number/) | Easy |
@@ -248,6 +249,7 @@ Daily leetcode journey
 | [0004-median-of-two-sorted-arrays](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0191-number-of-1-bits/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
