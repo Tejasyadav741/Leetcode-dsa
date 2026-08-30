@@ -15,6 +15,7 @@ Daily leetcode journey
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0042-trapping-rain-water/) | Hard |
+| [0046-permutations](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0046-permutations/) | Medium |
 | [0066-plus-one](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -344,6 +345,7 @@ Daily leetcode journey
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0046-permutations/) | Medium |
 | [0401-binary-watch](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0401-binary-watch/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
