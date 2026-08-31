@@ -36,6 +36,7 @@ Daily leetcode journey
 | [0463-island-perimeter](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0463-island-perimeter/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0500-keyboard-row](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0500-keyboard-row/) | Easy |
+| [0506-relative-ranks](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0506-relative-ranks/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -170,6 +171,7 @@ Daily leetcode journey
 | [0389-find-the-difference](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0455-assign-cookies/) | Easy |
+| [0506-relative-ranks](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0506-relative-ranks/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Stack
@@ -341,6 +343,7 @@ Daily leetcode journey
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0506-relative-ranks](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0506-relative-ranks/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
