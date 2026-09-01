@@ -349,6 +349,7 @@ Daily leetcode journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0046-permutations/) | Medium |
+| [0077-combinations](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0077-combinations/) | Medium |
 | [0401-binary-watch](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0401-binary-watch/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
