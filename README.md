@@ -16,6 +16,7 @@ Daily leetcode journey
 | [0035-search-insert-position](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0046-permutations/) | Medium |
+| [0048-rotate-image](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -134,6 +135,7 @@ Daily leetcode journey
 | [0007-reverse-integer](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0013-roman-to-integer/) | Easy |
+| [0048-rotate-image](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0067-add-binary/) | Easy |
@@ -362,6 +364,7 @@ Daily leetcode journey
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0048-rotate-image/) | Medium |
 | [0463-island-perimeter](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0463-island-perimeter/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
