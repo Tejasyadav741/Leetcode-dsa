@@ -38,6 +38,7 @@ Daily leetcode journey
 | [0485-max-consecutive-ones](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0500-keyboard-row](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0500-keyboard-row/) | Easy |
 | [0506-relative-ranks](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0506-relative-ranks/) | Easy |
+| [0561-array-partition](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -174,6 +175,7 @@ Daily leetcode journey
 | [0414-third-maximum-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0455-assign-cookies/) | Easy |
 | [0506-relative-ranks](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0506-relative-ranks/) | Easy |
+| [0561-array-partition](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Stack
@@ -341,6 +343,7 @@ Daily leetcode journey
 | [0011-container-with-most-water](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0409-longest-palindrome](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0409-longest-palindrome/) | Easy |
 | [0455-assign-cookies](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0455-assign-cookies/) | Easy |
+| [0561-array-partition](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0561-array-partition/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -381,4 +384,8 @@ Daily leetcode journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0042-trapping-rain-water/) | Hard |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0561-array-partition/) | Easy |
 <!---LeetCode Topics End-->
