@@ -164,6 +164,7 @@ Daily leetcode journey
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
