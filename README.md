@@ -190,6 +190,7 @@ Daily leetcode journey
 | [0042-trapping-rain-water](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0234-palindrome-linked-list/) | Easy |
 ## String Matching
@@ -280,6 +281,7 @@ Daily leetcode journey
 | [0110-balanced-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -294,6 +296,7 @@ Daily leetcode journey
 | [0110-balanced-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0463-island-perimeter](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0463-island-perimeter/) | Easy |
@@ -310,6 +313,7 @@ Daily leetcode journey
 | [0110-balanced-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0404-sum-of-left-leaves/) | Easy |
