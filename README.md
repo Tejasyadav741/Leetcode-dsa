@@ -90,6 +90,7 @@ Daily leetcode journey
 | [0389-find-the-difference](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0392-is-subsequence/) | Easy |
 | [0409-longest-palindrome](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0409-longest-palindrome/) | Easy |
+| [0412-fizz-buzz](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
 | [0500-keyboard-row](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0500-keyboard-row/) | Easy |
 | [0504-base-7](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0504-base-7/) | Easy |
 | [0520-detect-capital](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0520-detect-capital/) | Easy |
@@ -160,6 +161,7 @@ Daily leetcode journey
 | [0326-power-of-three](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0367-valid-perfect-square/) | Easy |
+| [0412-fizz-buzz](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
 | [0441-arranging-coins](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0441-arranging-coins/) | Easy |
 | [0492-construct-the-rectangle](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0504-base-7](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0504-base-7/) | Easy |
@@ -248,6 +250,7 @@ Daily leetcode journey
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0258-add-digits/) | Easy |
+| [0412-fizz-buzz](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
