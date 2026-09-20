@@ -102,6 +102,7 @@ Daily leetcode journey
 | [0521-longest-uncommon-subsequence-i](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -260,6 +261,7 @@ Daily leetcode journey
 | [0067-add-binary](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
