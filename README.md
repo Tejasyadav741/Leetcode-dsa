@@ -109,6 +109,7 @@ Daily leetcode journey
 | [0520-detect-capital](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0520-detect-capital/) | Easy |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Trie
@@ -222,6 +223,7 @@ Daily leetcode journey
 | [0145-binary-tree-postorder-traversal](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -452,4 +454,5 @@ Daily leetcode journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0022-generate-parentheses/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
