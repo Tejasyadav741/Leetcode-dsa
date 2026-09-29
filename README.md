@@ -18,6 +18,7 @@ Daily leetcode journey
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0048-rotate-image/) | Medium |
@@ -424,6 +425,7 @@ Daily leetcode journey
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0077-combinations/) | Medium |
 | [0401-binary-watch](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0401-binary-watch/) | Easy |
