@@ -113,6 +113,7 @@ Daily leetcode journey
 | [0520-detect-capital](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0520-detect-capital/) | Easy |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -229,6 +230,7 @@ Daily leetcode journey
 | [0145-binary-tree-postorder-traversal](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## String Matching
@@ -298,6 +300,7 @@ Daily leetcode journey
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0392-is-subsequence](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -408,6 +411,7 @@ Daily leetcode journey
 | [0409-longest-palindrome](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0409-longest-palindrome/) | Easy |
 | [0455-assign-cookies](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0561-array-partition/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -466,6 +470,7 @@ Daily leetcode journey
 | [0020-valid-parentheses](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
