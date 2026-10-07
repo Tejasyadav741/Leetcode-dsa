@@ -22,6 +22,7 @@ Daily leetcode journey
 | [0040-combination-sum-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0088-merge-sorted-array/) | Easy |
@@ -206,6 +207,7 @@ Daily leetcode journey
 | [0015-3sum](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0018-4sum/) | Medium |
+| [0047-permutations-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0047-permutations-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0217-contains-duplicate/) | Easy |
@@ -441,6 +443,7 @@ Daily leetcode journey
 | [0039-combination-sum](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0077-combinations/) | Medium |
 | [0401-binary-watch](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0401-binary-watch/) | Easy |
 ## Binary Search Tree
