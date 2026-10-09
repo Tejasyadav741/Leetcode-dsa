@@ -119,6 +119,7 @@ Daily leetcode journey
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -240,6 +241,7 @@ Daily leetcode journey
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -421,6 +423,7 @@ Daily leetcode journey
 | [0561-array-partition](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0561-array-partition/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -485,5 +488,6 @@ Daily leetcode journey
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
