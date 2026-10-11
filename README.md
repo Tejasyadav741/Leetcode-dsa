@@ -53,6 +53,7 @@ Daily leetcode journey
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -479,6 +480,7 @@ Daily leetcode journey
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
