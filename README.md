@@ -349,6 +349,7 @@ Daily leetcode journey
 | [0226-invert-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -365,6 +366,7 @@ Daily leetcode journey
 | [0404-sum-of-left-leaves](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0463-island-perimeter](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0463-island-perimeter/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -382,6 +384,7 @@ Daily leetcode journey
 | [0222-count-complete-tree-nodes](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -395,6 +398,7 @@ Daily leetcode journey
 | [0404-sum-of-left-leaves](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0463-island-perimeter](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0463-island-perimeter/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
