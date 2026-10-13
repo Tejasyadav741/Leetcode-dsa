@@ -58,6 +58,7 @@ Daily leetcode journey
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -226,6 +227,7 @@ Daily leetcode journey
 | [0594-longest-harmonious-subsequence](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -432,6 +434,7 @@ Daily leetcode journey
 | [0678-valid-parenthesis-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
