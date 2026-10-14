@@ -203,6 +203,7 @@ Daily leetcode journey
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Sorting
@@ -434,6 +435,7 @@ Daily leetcode journey
 | [0678-valid-parenthesis-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
