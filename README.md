@@ -51,6 +51,7 @@ Daily leetcode journey
 | [0575-distribute-candies](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0575-distribute-candies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -410,6 +411,7 @@ Daily leetcode journey
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
