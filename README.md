@@ -97,6 +97,7 @@ Daily leetcode journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0012-integer-to-roman](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0014-longest-common-prefix/) | Easy |
@@ -140,6 +141,7 @@ Daily leetcode journey
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0016-3sum-closest/) | Medium |
@@ -319,6 +321,7 @@ Daily leetcode journey
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0042-trapping-rain-water/) | Hard |
@@ -527,4 +530,8 @@ Daily leetcode journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
