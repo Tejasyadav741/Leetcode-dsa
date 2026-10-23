@@ -75,6 +75,7 @@ Daily leetcode journey
 | [0160-intersection-of-two-linked-lists](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0202-happy-number/) | Easy |
+| [0205-isomorphic-strings](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
@@ -110,6 +111,7 @@ Daily leetcode journey
 | [0125-valid-palindrome](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0205-isomorphic-strings](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0344-reverse-string/) | Easy |
