@@ -130,6 +130,7 @@ Daily leetcode journey
 | [0557-reverse-words-in-a-string-iii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -169,6 +170,7 @@ Daily leetcode journey
 | [0392-is-subsequence](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0455-assign-cookies/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -460,6 +462,7 @@ Daily leetcode journey
 | [0455-assign-cookies](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0561-array-partition/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
