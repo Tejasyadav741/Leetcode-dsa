@@ -131,6 +131,7 @@ Daily leetcode journey
 | [0657-robot-return-to-origin](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0709-to-lower-case](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0709-to-lower-case/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1021-remove-outermost-parentheses/) | Easy |
