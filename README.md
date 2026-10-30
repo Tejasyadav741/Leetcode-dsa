@@ -116,6 +116,7 @@ Daily leetcode journey
 | [0171-excel-sheet-column-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0257-binary-tree-paths/) | Easy |
 | [0290-word-pattern](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -381,6 +382,7 @@ Daily leetcode journey
 | [0145-binary-tree-postorder-traversal](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -397,6 +399,7 @@ Daily leetcode journey
 | [0144-binary-tree-preorder-traversal](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0463-island-perimeter](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0463-island-perimeter/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
@@ -417,6 +420,7 @@ Daily leetcode journey
 | [0145-binary-tree-postorder-traversal](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Breadth-First Search
@@ -497,6 +501,7 @@ Daily leetcode journey
 | [0046-permutations](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0077-combinations/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0257-binary-tree-paths/) | Easy |
 | [0401-binary-watch](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0401-binary-watch/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
