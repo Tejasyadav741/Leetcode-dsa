@@ -45,6 +45,7 @@ Daily leetcode journey
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0455-assign-cookies/) | Easy |
 | [0463-island-perimeter](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0463-island-perimeter/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -220,6 +221,7 @@ Daily leetcode journey
 | [0412-fizz-buzz](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0441-arranging-coins/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0504-base-7](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0507-perfect-number/) | Easy |
