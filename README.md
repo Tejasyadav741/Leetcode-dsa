@@ -41,6 +41,7 @@ Daily leetcode journey
 | [0240-search-a-2d-matrix-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0283-move-zeroes/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0414-third-maximum-number/) | Easy |
@@ -463,6 +464,7 @@ Daily leetcode journey
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0303-range-sum-query-immutable/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -486,6 +488,7 @@ Daily leetcode journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0303-range-sum-query-immutable/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
