@@ -92,6 +92,7 @@ Daily leetcode journey
 | [0349-intersection-of-two-arrays](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0409-longest-palindrome/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -127,6 +128,7 @@ Daily leetcode journey
 | [0344-reverse-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0392-is-subsequence/) | Easy |
 | [0409-longest-palindrome](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0409-longest-palindrome/) | Easy |
@@ -384,6 +386,7 @@ Daily leetcode journey
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -480,6 +483,7 @@ Daily leetcode journey
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
