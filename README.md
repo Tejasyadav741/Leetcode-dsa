@@ -131,6 +131,7 @@ Daily leetcode journey
 | [0387-first-unique-character-in-a-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0392-is-subsequence/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0409-longest-palindrome](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0409-longest-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0415-add-strings/) | Easy |
@@ -229,6 +230,7 @@ Daily leetcode journey
 | [0326-power-of-three](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0367-valid-perfect-square/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0441-arranging-coins/) | Easy |
@@ -339,6 +341,7 @@ Daily leetcode journey
 | [0342-power-of-four](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0401-binary-watch](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0401-binary-watch/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0476-number-complement](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0476-number-complement/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Simulation
