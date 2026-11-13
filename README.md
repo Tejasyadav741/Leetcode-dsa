@@ -345,6 +345,7 @@ Daily leetcode journey
 | [0389-find-the-difference](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0401-binary-watch](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0401-binary-watch/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0461-hamming-distance](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0461-hamming-distance/) | Easy |
 | [0476-number-complement](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0476-number-complement/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Simulation
