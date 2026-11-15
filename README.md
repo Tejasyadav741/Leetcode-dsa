@@ -51,6 +51,7 @@ Daily leetcode journey
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0463-island-perimeter](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0463-island-perimeter/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0495-teemo-attacking](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0495-teemo-attacking/) | Easy |
 | [0500-keyboard-row](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0500-keyboard-row/) | Easy |
 | [0506-relative-ranks](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0561-array-partition/) | Easy |
@@ -356,6 +357,7 @@ Daily leetcode journey
 | [0258-add-digits](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0415-add-strings/) | Easy |
+| [0495-teemo-attacking](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0495-teemo-attacking/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0657-robot-return-to-origin/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Dynamic Programming
