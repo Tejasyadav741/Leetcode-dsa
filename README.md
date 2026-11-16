@@ -52,6 +52,7 @@ Daily leetcode journey
 | [0463-island-perimeter](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0463-island-perimeter/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0495-teemo-attacking](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0495-teemo-attacking/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0500-keyboard-row/) | Easy |
 | [0506-relative-ranks](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0561-array-partition/) | Easy |
@@ -97,6 +98,7 @@ Daily leetcode journey
 | [0389-find-the-difference](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0409-longest-palindrome/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0500-keyboard-row/) | Easy |
 | [0575-distribute-candies](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0575-distribute-candies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -291,6 +293,7 @@ Daily leetcode journey
 | [0225-implement-stack-using-queues](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -558,6 +561,7 @@ Daily leetcode journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0042-trapping-rain-water/) | Hard |
+| [0496-next-greater-element-i](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0496-next-greater-element-i/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
