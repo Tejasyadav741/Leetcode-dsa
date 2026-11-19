@@ -145,6 +145,7 @@ Daily leetcode journey
 | [0504-base-7](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0504-base-7/) | Easy |
 | [0520-detect-capital](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0520-detect-capital/) | Easy |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
+| [0541-reverse-string-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0541-reverse-string-ii/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -189,6 +190,7 @@ Daily leetcode journey
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0455-assign-cookies/) | Easy |
+| [0541-reverse-string-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
