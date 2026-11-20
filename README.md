@@ -423,6 +423,7 @@ Daily leetcode journey
 | [0404-sum-of-left-leaves](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Depth-First Search
@@ -443,6 +444,7 @@ Daily leetcode journey
 | [0463-island-perimeter](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0463-island-perimeter/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Binary Tree
@@ -465,6 +467,7 @@ Daily leetcode journey
 | [0404-sum-of-left-leaves](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -628,4 +631,8 @@ Daily leetcode journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0459-repeated-substring-pattern/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
