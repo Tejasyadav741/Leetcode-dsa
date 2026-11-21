@@ -425,6 +425,7 @@ Daily leetcode journey
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
+| [0563-binary-tree-tilt](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -446,6 +447,7 @@ Daily leetcode journey
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
+| [0563-binary-tree-tilt](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -468,6 +470,7 @@ Daily leetcode journey
 | [0501-find-mode-in-binary-search-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0563-binary-tree-tilt](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -635,4 +638,5 @@ Daily leetcode journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0563-binary-tree-tilt](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0563-binary-tree-tilt/) | Easy |
 <!---LeetCode Topics End-->
