@@ -56,6 +56,7 @@ Daily leetcode journey
 | [0500-keyboard-row](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0500-keyboard-row/) | Easy |
 | [0506-relative-ranks](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0561-array-partition/) | Easy |
+| [0566-reshape-the-matrix](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0575-distribute-candies](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0575-distribute-candies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -363,6 +364,7 @@ Daily leetcode journey
 | [0412-fizz-buzz](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0415-add-strings/) | Easy |
 | [0495-teemo-attacking](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0495-teemo-attacking/) | Easy |
+| [0566-reshape-the-matrix](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0657-robot-return-to-origin/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Dynamic Programming
@@ -574,6 +576,7 @@ Daily leetcode journey
 | [0074-search-a-2d-matrix](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0463-island-perimeter](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0463-island-perimeter/) | Easy |
+| [0566-reshape-the-matrix](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0566-reshape-the-matrix/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
