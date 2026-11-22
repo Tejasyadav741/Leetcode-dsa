@@ -159,6 +159,7 @@ Daily leetcode journey
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Trie
