@@ -310,6 +310,7 @@ Daily leetcode journey
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -429,6 +430,7 @@ Daily leetcode journey
 | [0543-diameter-of-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0563-binary-tree-tilt/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -451,6 +453,7 @@ Daily leetcode journey
 | [0543-diameter-of-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0563-binary-tree-tilt/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -474,6 +477,7 @@ Daily leetcode journey
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0563-binary-tree-tilt/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -643,4 +647,8 @@ Daily leetcode journey
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0563-binary-tree-tilt/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
