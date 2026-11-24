@@ -67,6 +67,7 @@ Daily leetcode journey
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -252,6 +253,7 @@ Daily leetcode journey
 | [0509-fibonacci-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -502,11 +504,13 @@ Daily leetcode journey
 | [0594-longest-harmonious-subsequence](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -595,6 +599,7 @@ Daily leetcode journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
