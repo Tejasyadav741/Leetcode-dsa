@@ -253,6 +253,7 @@ Daily leetcode journey
 | [0509-fibonacci-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3360-stone-removal-game](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -371,6 +372,7 @@ Daily leetcode journey
 | [0495-teemo-attacking](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0495-teemo-attacking/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0657-robot-return-to-origin/) | Easy |
+| [3360-stone-removal-game](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
