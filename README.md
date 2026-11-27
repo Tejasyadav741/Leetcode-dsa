@@ -302,6 +302,7 @@ Daily leetcode journey
 | [0234-palindrome-linked-list](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -437,6 +438,7 @@ Daily leetcode journey
 | [0563-binary-tree-tilt](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -461,6 +463,7 @@ Daily leetcode journey
 | [0563-binary-tree-tilt](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
