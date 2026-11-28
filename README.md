@@ -59,6 +59,7 @@ Daily leetcode journey
 | [0566-reshape-the-matrix](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0575-distribute-candies](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0575-distribute-candies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0598-range-addition-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0598-range-addition-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -251,6 +252,7 @@ Daily leetcode journey
 | [0504-base-7](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
+| [0598-range-addition-ii](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0598-range-addition-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3360-stone-removal-game](https://github.com/Tejasyadav741/Leetcode-dsa/tree/main/3360-stone-removal-game/) | Easy |
